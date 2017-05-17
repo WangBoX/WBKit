@@ -9,6 +9,11 @@
 #import "WBRoot1ViewController.h"
 #import "Aspects.h"
 
+typedef NS_ENUM(NSInteger, Sex){
+    SexMan,
+    SexWoman
+};
+
 @interface WBRoot1ViewController ()
 
 @end
